@@ -1,2 +1,4 @@
-package com.baeldung.jaas;public class InMemoryLoginModule {
+package com.baeldung.jaas;
+
+public class InMemoryLoginModule {
 }
